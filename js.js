@@ -546,16 +546,16 @@ console.clear();
 let person = new Map();
 
 person.set('user1', {
-        firstName: 'SaberQadimi',
-        mobile: 09039106953,
-    })
-    // console.log(person);
-    // outpot 
+    firstName: 'SaberQadimi',
+    mobile: 6216562,
+});
+// console.log(person);
+// outpot 
 person.set('user2', {
-        firstName: 'Ali',
-        mobile: 9025928703,
-    })
-    // console.log(person.get('user2').mobile);
+    firstName: 'Ali',
+    mobile: 54623659562,
+});
+// console.log(person.get('user2').mobile);
 
 person.set('Trigger', function() {
     console.log('HelloWorld')
@@ -606,9 +606,65 @@ const { person5, person6 } = bio;
 console.log(person5, person6);
 // outpot: saber 26 ;
 
+console.clear();
+
+// const dc = {
+//     person5: 'saber',
+//     person6: 26,
+//     sayHello: function() {
+//         console.log('Hello')
+//     }
+// }
+// const { f1, f2, ddr3 } = dc;
+// console.log(person5, person6);
+// ddr3();
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//
 
 
 
